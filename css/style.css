@@ -1,2 +1,14 @@
 body {
+  background-color: azure;
+}
+.box {
+  display: block;
+  margin: 0 auto;
+
+  padding: 10px;
+  background-color: white;
+}
+footer {
+  text-align: center;
+  color: blueviolet;
 }
